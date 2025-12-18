@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 📊 Working in *Data Analysis*
+- 📊 Working on *Data Analysis*
 - 📈 Focused on data-driven decision making
 - 🔍 Skilled in data cleaning, analysis & visualization
 - 🚀 Passionate about dashboards and business insights
